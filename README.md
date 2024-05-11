@@ -1,5 +1,6 @@
 # VERZEO_ML_INTERNSHIP
 MAJOR PROJECT:
+
 DATASET:data.csv
 
 Task: XYZ is a service providing company that provides customers with a one year
